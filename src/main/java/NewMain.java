@@ -10,7 +10,7 @@
  */
 public class NewMain {
 // esto es un comentario
-    // esta clase es la main
+    // esta clase es la Main
     /**
      * @param args the command line arguments
      */
