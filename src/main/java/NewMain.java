@@ -9,7 +9,7 @@
  * @author oskar
  */
 public class NewMain {
-
+// esto es un comentario
     /**
      * @param args the command line arguments
      */
